@@ -4,7 +4,10 @@ Welcome to Telusko Kitchen
 
 Kheer
 Pasta
-Chicken fry
+Chicken fry\
+
+Beans
+Pizza
 
 
 Thank you
